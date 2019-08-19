@@ -2,6 +2,7 @@
 title: BGP
 description: Use BGP announcements
 category: howto
+author: Jørn Åne (Uninett)
 ---
 
 # BGP
